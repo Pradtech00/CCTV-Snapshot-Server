@@ -29,7 +29,7 @@ A lightweight monitoring system that automatically captures snapshots from IP Ca
 > Dashboard Overview
 
 <p align="center">
-<img width="1357" height="654" alt="dashboard" src="https://github.com/user-attachments/assets/614beff0-2e6e-4d36-beea-88d3bbce4b86" />
+<img width="1488" height="716" alt="dashboard1" src="https://github.com/user-attachments/assets/93078c64-e0a3-4b9b-a6d0-4ffc5f0ee560" />
 </p>
 
 The dashboard displays:
